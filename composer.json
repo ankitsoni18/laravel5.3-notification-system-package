@@ -1,10 +1,10 @@
 {
     "name": "ankit/notification",
-    "description": "laravel notification system",
+    "description": "Simple Laravel 5.3 Push Notification on web",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ankit Soni",
+            "name": "ankitsoni",
             "email": "ankitsoni.ss18@gmail.com"
         }
     ],
